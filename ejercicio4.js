@@ -31,5 +31,5 @@ console.log(aldeanos4)
 //EJERCICIO6
 
 const aldeanos5 = ['Fibrilio', 'Narciso', 'Vacarena', 'Tendo', 'Nendo']
-const ultimoElemento = aldeanos5[aldeanos5.length - 1]
+const ultimoElemento = aldeanos5[aldeanos5.length - 1] // -1 es referente al ultimo elemento del array
 console.log(ultimoElemento)
